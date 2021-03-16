@@ -4,10 +4,7 @@ int main(){
     int i,j,k=1,sum=1;
     int n=4;
     for(i=0;i<n;i++){
-    	
-    	
     	for(j=0;j<n;j++){
-    		
     		printf("%d ",sum);
     		sum+=k;
     	}
